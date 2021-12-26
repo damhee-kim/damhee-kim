@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 </p>
