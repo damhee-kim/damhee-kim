@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-  https://img.shields.io/static/v1?label="java"<LABEL>&message=<MESSAGE>&color="red"<COLOR>
-  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
-  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
