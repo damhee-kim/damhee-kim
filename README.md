@@ -2,7 +2,7 @@
 
 
 
-<h4 align="center">🛠 Tech Stack 🛠</h4>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">Techs that I've used at lesast once</p>
 </br>
 <p align="center">
@@ -17,7 +17,7 @@
 
 <br/>
 
-<h4 align="center">:four_leaf_clover:Follow Me:four_leaf_clover:</h4>
+<h3 align="center">:four_leaf_clover:Follow Me:four_leaf_clover:</h3>
 <p align="center">  
   <a href="https://blog.naver.com/damhee6624"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://github.com/damhee-kim/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/damhee-kim"/></a>
