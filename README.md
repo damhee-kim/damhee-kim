@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=Hi!%20I'm%20Damhee&fontSize=45&fontAlign=50&fontColor=000000&animation=fadeIn)
-
-
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">Techs that I've used at lesast once</p>
