@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/MysqlSQL-F80000?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1713742949198?alt=media&token=60181e99-0e0e-4f4a-82eb-d87ec13c8f69)](https://github.com/msdio/stackticon)
+
 <br/>
 
 <h3 align="center">:four_leaf_clover:Follow Me:four_leaf_clover:</h3>
