@@ -8,6 +8,11 @@
 
 <br/>
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damhee-kim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damhee-kim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
 <h3 align="center">:four_leaf_clover:Follow Me:four_leaf_clover:</h3>
 <p align="center">  
   <a href="https://blog.naver.com/damhee6624"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
