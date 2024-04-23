@@ -15,5 +15,5 @@
   <a href="https://blog.naver.com/damhee6624"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/>
   <a href="https://github.com/damhee-kim/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/damhee-kim"/></a>
-  <a href="https://damhee-kim.github.io/"><img src="https://img.shields.io/badge/Portfolio-8D1F89?style=for-the-badge&logo=4chan&logoColor=white&link=https://damhee-kim.github.io"/></a>
+  <a href="https://damhee-kim.github.io/"><img src="https://img.shields.io/badge/Portfolio-%238A4182?style=for-the-badge&logo=4chan&logoColor=white&link=https://damhee-kim.github.io"/></a>
 </p>
