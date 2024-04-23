@@ -5,7 +5,12 @@
   <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1713743255888?alt=media&token=38265825-ff2e-432e-8e59-9508aeb57801" alt="stackticon" /></a>
 </p>
 <br/>
+<h3 align="center"> Study </h3>
+<p align="center">
+  <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1713852115968?alt=media&token=be3bbf68-3fc4-44be-ba8e-427c189aba9c" alt="stackticon" /></a>
+</p>
 
+<br/>
 
 <p align="center">  
   <a href="https://blog.naver.com/damhee6624"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
