@@ -1,7 +1,7 @@
 
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
-  <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1713743255888?alt=media&token=38265825-ff2e-432e-8e59-9508aeb57801" alt="stackticon" /></a>
+  <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1715778583671?alt=media&token=6ac85d7e-225f-403c-9db4-be1cae0100db"   alt="stackticon" /></a>
 </p>
 <br/>
 <h3 align="center"> Study </h3>
