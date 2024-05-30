@@ -6,7 +6,7 @@
 <br/>
 <h3 align="center"> Study </h3>
 <p align="center">
-  <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1715778931550?alt=media&token=e89b9d68-07a3-438c-8bb3-4f00324e6604" alt="stackticon" /></a>
+  <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1715778931550?alt=media&token=e89b9d68-07a3-438c-8bb3-4f00324e6604" alt="stackticon" /></a>](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1717082836421?alt=media&token=a794bca0-156f-48e4-8641-c6fefd1ac123)
 </p>
 
 <br/>
