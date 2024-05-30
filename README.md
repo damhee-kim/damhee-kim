@@ -1,10 +1,10 @@
 
-### <h3 align="center"> Tech Stack </h3>
+<h3 align="center"> Tech Stack </h3>
 <p align="center">
   <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1715778583671?alt=media&token=6ac85d7e-225f-403c-9db4-be1cae0100db"   alt="stackticon" /></a>
 </p>
 <br/>
-### <h3 align="center"> Study </h3>
+<h3 align="center"> Study </h3>
 <p align="center">
   <a href="https://github.com/msdio/stackticon"><img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1717082836421?alt=media&token=a794bca0-156f-48e4-8641-c6fefd1ac123" alt="stackticon" /></a>
 </p>
